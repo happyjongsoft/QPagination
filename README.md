@@ -1,5 +1,15 @@
 # Pagination
- A Pagination Widget based on Qt
+A Pagination Widget based on Qt
+
+## Screenshots
+
+![Screenshot](https://github.com/happyjongsoft/QPagination/blob/master/images/Screenshot%202023-01-06%20164215.png?raw=true)
+
+![Screenshot](https://github.com/happyjongsoft/QPagination/blob/master/images/Screenshot%202023-01-06%20164231.png?raw=true)
+
+## Video
+[Youtube](https://www.youtube.com/watch?v=NoO_I_XMCUs)
+&nbsp;
 
 ### Usage Demo
 ``` c++
@@ -56,4 +66,8 @@
     pagination->show();
 
     label->setText(QString::number(pagination->getCurrentPage()) + " of " + QString::number(pagination->getTotalPages()));
+
 ```
+
+### Creator
+Email [happy.jong.soft@gmail.com](mailto:happy.jong.soft@gmail.com)
