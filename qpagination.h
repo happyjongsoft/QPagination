@@ -1,5 +1,5 @@
 /**
- * @author Eugene Bogomolny
+ * @author JeiPi
  *
  */
 #ifndef QPAGINATION_H
